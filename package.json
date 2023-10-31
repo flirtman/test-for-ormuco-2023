@@ -1,0 +1,22 @@
+{
+  "name": "test-for-ormuco",
+  "version": "1.0.0",
+  "description": "Test for Ormuco",
+  "main": "app.js",
+  "author": "Ilia Svinin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "undici-types": "^5.27.0"
+  }
+}
